@@ -1,0 +1,14 @@
+# NetBeans
+/nbproject/private/
+
+# Archivos generados
+/build/
+/dist/
+/nbbuild/
+
+# Archivos compilados
+*.class
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
